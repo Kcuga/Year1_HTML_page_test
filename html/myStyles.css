@@ -1,0 +1,46 @@
+header 
+	{
+		height: 80px;
+		background-color: #C0504D;
+		color: white;
+		text-align: center;
+	}
+nav 
+	{
+		border-top: solid;
+		border-color: white;
+		border-width: 2px; 
+		height: 50px;
+		background-color: #E5B8B7;
+		text-align: center;
+		line-height: 50px;
+	}
+aside
+	{
+		float:left;
+		width: 150px;
+		background-color: #E5B8B7;
+		border-top: solid;
+		border-right: solid;
+		border-color: white;
+		text-align: center;
+		border-width: 2px;
+		line-height: 50px;
+		height: 300px;
+	}
+main
+	{
+		background-color: #F2DBDB;
+		border-top-style: solid;
+		border-top-color: white;
+		border-top-width: 2px;
+		height: 300px;
+		padding-left: 175px;
+	}
+footer
+	{
+		height: 100px;
+		text-align: center;
+		background-color: #C0504D;
+		word-spacing: 20px;
+		}
